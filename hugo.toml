@@ -1,0 +1,13 @@
+baseURL = 'https://DuPjZBsw.wana.site/BDbGcemK/'
+defaultContentLanguage = 'ja'
+languageCode = 'ja'
+title = 'test'
+theme = 'hugo-book'
+enableGitInfo = true
+[params]
+  BookRepo = 'https://github.com/DuPjZBsw/BDbGcemK'
+  BookEditPath = 'edit/main'
+  BookCommitPath = 'commit'
+  BookDateFormat = '2006年1月2日'
+[markup.goldmark.renderer]
+  unsafe = true
